@@ -1,0 +1,4 @@
+We have 3 days short training on:
+   Git
+   GitHub
+   Jenkins
